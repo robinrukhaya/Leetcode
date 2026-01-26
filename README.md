@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
+| [3765-complete-prime-number](https://github.com/robinrukhaya/Leetcode/tree/master/3765-complete-prime-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/robinrukhaya/Leetcode/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/robinrukhaya/Leetcode/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
