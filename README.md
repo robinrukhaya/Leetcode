@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/robinrukhaya/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Depth-First Search
 |  |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/robinrukhaya/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
