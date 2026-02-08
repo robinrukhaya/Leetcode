@@ -1,41 +1,31 @@
 class Solution {
 public:
-    bool dfs(int node,vector<vector<int>>& adj,vector<int>&        visited,vector<int>& recStack) {
-        visited[node]=1;
-        recStack[node] = 1;
+    bool canFinish(int V, vector<vector<int>>& prerequisites) {
+        vector<int> adj[V];
+        vector<int> indegree(V, 0);
 
-        for(int neighbor : adj[node]) {
-            if(!visited[neighbor]) {
-                if(dfs(neighbor,adj,visited,recStack))
-                   return true;
-            }
-        
-            else if(recStack[neighbor]) {
-                return true;
-            }
+        for (auto it : prerequisites) {
+            adj[it[1]].push_back(it[0]);
+            indegree[it[0]]++;
         }
 
-    recStack[node] = 0; 
-    return false;
-}
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-
-        for(auto p: prerequisites) {
-            int a = p[0];
-            int b = p[1];
-            adj[b].push_back(a);
+        queue<int> q;
+        for (int i = 0; i < V; i++) {
+            if (indegree[i] == 0) q.push(i);
         }
 
-        vector<int> visited(numCourses,0);
-        vector<int> recStack(numCourses,0);
+        int count = 0;
+        while (!q.empty()) {
+            int node = q.front(); q.pop();
+            count++;
 
-        for(int i = 0;i<numCourses;i++){
-            if(!visited[i]) {
-                if(dfs(i,adj,visited,recStack))
-                    return false;
+            for (int nei : adj[node]) {
+                indegree[nei]--;
+                if (indegree[nei] == 0)
+                    q.push(nei);
             }
         }
-        return true;
+
+        return count == V;
     }
 };
