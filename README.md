@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/robinrukhaya/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/robinrukhaya/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
+| [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/robinrukhaya/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
