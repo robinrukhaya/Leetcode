@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/robinrukhaya/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 ## Recursion
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
