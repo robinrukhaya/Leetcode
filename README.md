@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/robinrukhaya/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
 |  |
