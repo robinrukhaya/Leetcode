@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/robinrukhaya/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/robinrukhaya/Leetcode/tree/master/0207-course-schedule) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/robinrukhaya/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/robinrukhaya/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Heap (Priority Queue)
 |  |
