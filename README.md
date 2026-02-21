@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/robinrukhaya/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/robinrukhaya/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/robinrukhaya/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/robinrukhaya/Leetcode/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Heap (Priority Queue)
 |  |
