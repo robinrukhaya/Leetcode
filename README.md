@@ -178,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
