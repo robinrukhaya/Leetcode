@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0176-second-highest-salary) |
 | [0620-not-boring-movies](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0620-not-boring-movies) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
