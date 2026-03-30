@@ -1,26 +1,56 @@
+class DSU {
+public:
+    vector<int> parent;
+    vector<int> rank;
+    
+    DSU(int n) {
+        parent.resize(n);
+        rank.resize(n, 0);
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+    
+    int find(int x) {
+        if(parent[x] == x) return x;
+        return parent[x] = find(parent[x]);
+    }
+    
+    void unionByRank(int x, int y) {
+        int px = find(x);
+        int py = find(y);
+        if(px == py) return;
+        if(rank[px] < rank[py]) swap(px, py);
+        parent[py] = px;
+        if(rank[px] == rank[py]) rank[px]++;
+    }
+};
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
+        vector<vector<int>> edges; 
         int n = points.size();
-        vector<bool> visited(n,false);
-        int sum = 0;
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({0,0});
-    
-    while(!pq.empty()) {
-        auto [weight,node] = pq.top();
-        pq.pop();
-        if(visited[node]) continue;
-        visited[node] = true;
-        sum += weight;
-        for (int j= 0; j <n;j++) {
-            if(!visited[j]){
-                int dist = abs(points[node][0] - points[j][0]) + abs(points[node][1] - points[j][1]);
-                pq.push({dist,j});
+        for(int i = 0; i < n; i++) {
+            for(int j = i+1; j < n; j++) {
+                int dist = abs(points[i][0] - points[j][0]) + 
+                   abs(points[i][1] - points[j][1]);
+                edges.push_back({dist, i, j});
             }
         }
-    }
-    return sum;
+        sort(edges.begin(), edges.end());
+        DSU dsu(n);
+        int sum = 0;
 
+        for(auto edge : edges) {
+            int weight = edge[0];
+            int u = edge[1];
+            int v = edge[2];
+    
+            if(dsu.find(u) == dsu.find(v)) continue; // cycle! skip
+            dsu.unionByRank(u, v); // union them
+            sum += weight; // add to MST cost
+            }
+        
+        return sum;
     }
 };
