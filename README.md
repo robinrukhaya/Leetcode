@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1584-min-cost-to-connect-all-points](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
